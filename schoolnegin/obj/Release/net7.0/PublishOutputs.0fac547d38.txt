@@ -1,0 +1,10 @@
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\jsonfile\classsavalkey.json
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\jsonfile\classsdovomkey.json
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\schoolNegin.exe
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\schoolNegin.dll
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\schoolNegin.deps.json
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\schoolNegin.runtimeconfig.json
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\schoolNegin.pdb
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\Newtonsoft.Json.dll
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\informationschooljson.dll
+D:\dotnet\projectschool\schoolnegin\bin\Release\net7.0\publish\informationschooljson.pdb

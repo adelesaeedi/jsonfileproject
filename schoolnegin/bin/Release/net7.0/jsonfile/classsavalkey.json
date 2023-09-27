@@ -1,0 +1,31 @@
+{
+  "subject": "class aval ",
+  "teacher": {
+    "Name ": "maryam",
+    "Family ": "kazemi",
+    "age": "30"
+  },
+  "student": [
+    {
+      "Name": "azar",
+      "Family": "samani",
+      "Age": 6.5
+    },
+    {
+      "Name": "yasamin",
+      "Family": "mohhamadi",
+      "Age": 7
+    },
+    {
+      "Name": "farida",
+      "Family": "kamrani",
+      "Age": 6
+    },
+    {
+      "Name": "fateme",
+      "Family": "kamrani",
+      "Age": 6
+    }
+  ]
+}
+

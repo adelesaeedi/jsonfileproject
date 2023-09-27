@@ -1,0 +1,12 @@
+D:\dotnet\projectschool\informationschooljson\bin\Release\net7.0\informationschooljson.deps.json
+D:\dotnet\projectschool\informationschooljson\bin\Release\net7.0\informationschooljson.dll
+D:\dotnet\projectschool\informationschooljson\bin\Release\net7.0\informationschooljson.pdb
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\informationschooljson.csproj.AssemblyReference.cache
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\informationschooljson.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\informationschooljson.AssemblyInfoInputs.cache
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\informationschooljson.AssemblyInfo.cs
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\informationschooljson.csproj.CoreCompileInputs.cache
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\informationschooljson.dll
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\refint\informationschooljson.dll
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\informationschooljson.pdb
+D:\dotnet\projectschool\informationschooljson\obj\Release\net7.0\ref\informationschooljson.dll
